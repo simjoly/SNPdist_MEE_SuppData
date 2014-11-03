@@ -1,7 +1,7 @@
 SNPdist_MEE_SuppData
 ====================
 
-This folder contains all the scripts and code necessary to replicate the analyses performed in the manuscript "Flexible methods for estimating genetic distances from nucleotide data" by Joly, Bryant and Lockhart published in MEE.
+This folder contains all the scripts and code necessary to replicate the analyses performed in the study "Flexible methods for estimating genetic distances from nucleotide data" by Joly, Bryant and Lockhart.
 
 The present file explains how to replicate the analyses.
 
