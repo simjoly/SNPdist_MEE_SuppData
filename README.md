@@ -13,7 +13,7 @@ All the commands needed to replicate the simulations and analyses performed in t
 
 $> sh simulations_script.sh
 
-to perform all the analyses. However, the script is well commented and you can explore it to run the analysis one step at a time.
+to perform all the analyses. However, the script is well commented and you can explore it to run the analyses one step at a time.
 
 
 Requirements
