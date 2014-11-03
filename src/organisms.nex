@@ -1,0 +1,6 @@
+begin organisms;
+    dimensions Norg=8;
+    OrgLabels
+AA AB BB CC DD EE FF GG
+;
+end;

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:anal.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:anal.h">
+   </FileRef>
+   <FileRef
+      location = "group:GenFunctions.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:GenFunctions.h">
+   </FileRef>
+   <FileRef
+      location = "group:information.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:information.h">
+   </FileRef>
+   <FileRef
+      location = "group:makefile">
+   </FileRef>
+   <FileRef
+      location = "group:nexusdata.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:nexusdata.h">
+   </FileRef>
+   <FileRef
+      location = "group:organismsdata.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:organismsdata.h">
+   </FileRef>
+</Workspace>
